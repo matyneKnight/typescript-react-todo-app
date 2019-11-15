@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) [adding TypeScript](https://www.typescriptlang.org).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) adding [TypeScript](https://www.typescriptlang.org).
 
 ## Available Scripts
 
